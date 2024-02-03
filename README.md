@@ -5,7 +5,7 @@ CMOS Layot Design for Combinational Circuits, using the Micorwind layout design 
 1. 4-bit adder subtractor circuit
 
 Layout Design
-[Adder-Subtractor layout](https://github.com/dhrupad-u/Layout-Design-for-Combinational-Circuits/assets/42469685/9b407b1e-5c5e-4d18-859c-f805f1533cb2)
+![Adder-Subtractor layout](https://github.com/dhrupad-u/Layout-Design-for-Combinational-Circuits/assets/42469685/cf80a7d9-e5cb-4d1a-aa77-3c8acef80757)
 
 Simulation
 ![Adder-Subtractor Simulation](https://github.com/dhrupad-u/Layout-Design-for-Combinational-Circuits/assets/42469685/85a34f48-6f9a-469b-804b-639b205e4986)
