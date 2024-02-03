@@ -51,6 +51,7 @@ optimized to enhance the performance and efficiency of the circuits.
    ![image](https://github.com/dhrupad-u/Layout-Design-for-Combinational-Circuits/assets/42469685/72234a0e-81cc-4d4b-ab94-80d02d2488af)
 
    Simulation Results:
+   
    ![image](https://github.com/dhrupad-u/Layout-Design-for-Combinational-Circuits/assets/42469685/00b5cbc9-0cea-4d68-94d7-d3f50c4a1295)
 
 This project contain the .MSK files, for both these combinational circuits, which can be opened through the Micorwind Layout Design software.
