@@ -1,6 +1,6 @@
 # Layout-Design-for-Combinational-Circuits
 
-CMOS Layot Design for Combinational Circuits, using the Micorwind layout design software The layouts are optimized to enhance the performance and efficiency of the circuits.
+CMOS Layout Design for Combinational Circuits, using the Micorwind layout design software The layouts are optimized to enhance the performance and efficiency of the circuits.
 
 1. 4-bit adder subtractor circuit
 
